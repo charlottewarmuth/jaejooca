@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lohcaenaex.t12t.se/sitemap.xml
